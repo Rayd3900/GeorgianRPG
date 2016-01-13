@@ -2,7 +2,7 @@ package Main;
 
 /**
  *  TextGame class will contain our game loop.
- * 
+ *  YOLO
  *  In this game, we won't worry about FPS. We will worry about cycles.
  *  The main game loop will update once every 'cycle', and a cycle is dependent
  *  on the users command; the game will update according to what is typed in by
